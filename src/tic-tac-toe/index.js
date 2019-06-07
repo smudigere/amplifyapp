@@ -3,17 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 
-/*
-class Tictactoe extends React.Component {
-  render()  {
-    return(
-      <div>
-          <h1>Tictactoe</h1>
-        </div>
-    )
-  }
-}*/
-
 function Square(props) {
   return (
     <button className="square" onClick={props.onClick}>
