@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+start_server.bat
 
 # testing
 /coverage

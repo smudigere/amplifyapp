@@ -9,7 +9,7 @@ class Home extends React.Component  {
         <h1>Welcome to Sammy's games</h1><br/>
         <h2>What game would you like to play?</h2><br/><br/>
         <p>Please choose from the options above</p>
-        <i class="material-icons">face</i>
+        <i class="material-icons">attach_file</i>
       </div>
     )
   }
