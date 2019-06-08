@@ -10,6 +10,7 @@ start_server.bat
 /coverage
 
 # production
+/build
 
 # misc
 .DS_Store
