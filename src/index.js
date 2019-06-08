@@ -9,8 +9,8 @@ import Dicerace from './dice-race'
 const routing = (
   <Router>
     <div>
+    <h1>Azure Deployment Test</h1>
     <ul>
-    
         <li>
           <Link to="/">Home</Link>
         </li>
